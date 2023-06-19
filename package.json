@@ -1,0 +1,14 @@
+{
+  "name": "demo-cypress",
+  "version": "1.0.0",
+  "description": "Proyecto de pruebas practica cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AtzinGA",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
